@@ -168,9 +168,34 @@ Cookie access is opt-in. yt-dlp reads the selected browser session and uses it f
 
 Logs redact URLs, authentication material and user paths, retaining traceback basenames without source code or locals. Local self-check reports include paths. Input validation, output checks and shell-free subprocesses reduce risk; this tool is not a network sandbox and private hosts are allowed. See [Security](SECURITY.md).
 
-## Responsible use
+## Responsible use and legal notice
 
-For personal use only. Download content only with permission. Respect copyright and platform Terms of Service. The authors do not encourage unauthorized downloads. MediaGrab implements no DRM circumvention; accepting the disclaimer does not grant rights-holder permission. Software is provided without warranty under its license.
+MediaGrab is an independent open-source software project intended for
+lawful media-management workflows, including working with your own content
+or content you are authorized to download.
+
+The software license applies to the project code only. It does not grant
+rights to third-party videos, audio, images, trademarks, or other content.
+
+Use MediaGrab only where both applicable law and the relevant service terms
+permit the activity. Public availability, access through an account, and
+personal or non-commercial use do not by themselves establish permission
+to download, copy, or redistribute content.
+
+The project does not authorize copyright infringement or circumvention of
+DRM or other access controls. Any account access must be your own authorized
+access; do not share session cookies or credentials.
+
+MediaGrab is not affiliated with, endorsed by, or sponsored by YouTube,
+TikTok, Instagram, or their respective owners.
+
+The software is provided "as is", without warranties, subject to the MIT
+License and applicable law. Third-party components retain their own licenses;
+see THIRD_PARTY_NOTICES.md.
+
+For a specific copyright or licensing concern about this repository,
+please contact the maintainer through the contact method listed on the
+GitHub profile. Do not include passwords, cookies, tokens, or private media.
 
 ## Roadmap
 
